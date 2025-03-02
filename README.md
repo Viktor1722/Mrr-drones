@@ -20,5 +20,5 @@ In figure 3 you can see the final working version of first task
 Figure 3
 ![](https://github.com/user-attachments/assets/c2ff2600-aa23-4f11-a194-f75b3549df57)
 
-https://www.youtube.com/watch?v=x2WtHZciC74
+![](https://www.youtube.com/watch?v=x2WtHZciC74)
 
