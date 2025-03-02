@@ -30,7 +30,7 @@ The project addresses a critical gap in mission management where users have no w
 
 The solution needed to provide real-time visibility into both mission progression and data management aspects, enabling stakeholders to track mission stages and confirm the successful storage of all mission-related assets. That is how the progress bar is going to solve this problem. By providing stages of the mission which are going to be dynamically updated based on the progress of the drone.  
 
-
+In the video you can see the platform on the left with the progressbar on the bottom of the map and on the left there is a minecraft environment where we tested the dornes performance since the phisical drona was not always available for us to test new code implementations
 
 
 https://github.com/user-attachments/assets/b19f348b-31d0-44b1-8af3-5fbd76bcbb41
