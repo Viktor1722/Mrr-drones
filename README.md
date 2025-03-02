@@ -17,8 +17,7 @@ The objective of this assignment was to improve the "Marketpalce" functionality 
 My task involved developing a user-friendly interface where admins can enter an app's name, description, and upload an image. This data is then passed to the back-end, which manages the process of storing the new app information in the database. The end goal was to ensure that new app entries could be seamlessly integrated into the marketplace with minimal user effort.
 In figure 3 you can see the final working version of first task
 
-Figure 3
-![](https://github.com/user-attachments/assets/c2ff2600-aa23-4f11-a194-f75b3549df57)
+
 
 ![](https://www.youtube.com/watch?v=x2WtHZciC74)
 
