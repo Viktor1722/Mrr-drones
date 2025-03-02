@@ -3,3 +3,4 @@ Multi rotor research was a project that i was part of in my 7th semester of my I
 
 ![alt text](https://github.com/user-attachments/assets/4a9edd66-bc22-40e5-a707-ad211f1987d3)
 
+<img width="571" alt="Screenshot 2025-03-02 at 14 15 44" src="https://github.com/user-attachments/assets/917b2c57-8f7d-409c-9f1b-0716b613cbe7" />
