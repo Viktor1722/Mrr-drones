@@ -11,7 +11,7 @@ Figure 2
 
 I was part of this project in semester 7th of my ICT study i was part of the team developing MRR drones platform from where all of the data and control of the drones was happening. The back-end of the platform was written with C# .Net and the front-end was React.js. The tasks for this semester where to fix existing bugs and develop new features that would help the user-experience and performance of the drone missions. 
 
-### Taks 1 
+### Task 1 
 
 My first task was to imporve the "Marketplace" which was part of the platfrom where the admin can add new apps for drone missions. The purpouse of the apps is to add additional functionality
 to the drone missions when the user starts a drone mission he will be able to choose an app that can help the drone in a specific way such apps can be AI models made specifically for trash or rust detection mission
