@@ -28,8 +28,7 @@ https://github.com/user-attachments/assets/b9310575-ed35-4343-a447-0a231fea8411
 
 The project addresses a critical gap in mission management where users have no way to monitor the progress and current stage of ongoing missions. Additionally, there is no mechanism to verify whether mission-related images had been successfully uploaded to cloud storage, creating uncertainty around data completeness and availability.
 
+The solution needed to provide real-time visibility into both mission progression and data management aspects, enabling stakeholders to track mission stages and confirm the successful storage of all mission-related assets. That is how the progress bar is going to solve this problem. By providing stages of the mission which are going to be dynamically updated based on the progress of the drone.  
 
-
-https://github.com/user-attachments/assets/991337c8-4efe-4f13-a717-8f95f52f88e7
 
 
