@@ -11,7 +11,7 @@ Figure 2<img width="571" alt="Screenshot 2025-03-02 at 14 15 44" src="https://gi
 
 During the seventh semester of my ICT studies, I contributed to the development of MRR's drone platform, which serves as the central hub for drone data management and control. The platform utilizes C# .NET for backend operations and React.js for the frontend interface. My responsibilities included resolving existing technical issues and implementing new features to enhance user experience and mission performance.
 
-### Task 1 
+### Task 1 - Marketplace
  
 The objective of this assignment was to improve the "Marketpalce" functionality by implementing the ability to add new applications. These applications provide supplementary functionality during operations, when initiating a mission, users can select specific applications to augment drone capabilities. The applications can include for example specialized AI models designed for particular detection tasks, such as identifying waste materials or corrosion during inspection missions.
 My task involved developing a user-friendly interface where admins can enter an app's name, description, and upload an image. This data is then passed to the back-end, which manages the process of storing the new app information in the database. The end goal was to ensure that new app entries could be seamlessly integrated into the marketplace with minimal user effort.
@@ -19,6 +19,12 @@ In figure 3 you can see the final working version of first task
 
 
 
-![](https://www.youtube.com/watch?v=x2WtHZciC74)
+https://github.com/user-attachments/assets/b9310575-ed35-4343-a447-0a231fea8411
 
-https://github.com/Viktor1722/Court-Vision/assets/102257718/67e16220-902e-429d-9e4f-7ab5e7c6cf01
+
+
+###Task 2 - Progressbar
+
+
+
+
