@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/b9310575-ed35-4343-a447-0a231fea8411
 
 
 
-###Task 2 - Progressbar
+### Task 2 - Progressbar
 
 
 The project addresses a critical gap in mission management where users have no way to monitor the progress and current stage of ongoing missions. Additionally, there is no mechanism to verify whether mission-related images had been successfully uploaded to cloud storage, creating uncertainty around data completeness and availability.
